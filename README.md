@@ -9,3 +9,5 @@
 ### https://www.arquitecturajava.com/
 
 ### http://www.jtech.ua.es/j2ee/publico/spring-2012-13/apendice_AOP-apuntes.html
+
+### https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html
